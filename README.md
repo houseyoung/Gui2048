@@ -3,6 +3,19 @@
 
 2048 Game based on JavaFX.
 
+## 如何运行本游戏 | How to run this game
+1.在命令提示符(Windows)/终端(OS X或Linux)中进入**src**目录。
+<br>
+2.执行**javac *.java**
+<br>
+3.执行**java Gui2048** (可在本命令后附加一些参数，详情见下文。)
+
+1.Open **src** folder in Command Prompt(Windows)/Terminal(OS X or Linux).
+<br>
+2.Execute **javac *.java**
+<br>
+3.Execute **java Gui2048** (You can add some command line arguments after this command, see below for details.)
+
 ## 如何玩本游戏 | How to play this game
 **方向键** -> 控制方块移动。
 <br>
